@@ -1,5 +1,2 @@
-# Metocean Buoy Data Processing
+# siodoc
 
-- Heave, pitch, roll and heading
-- Wave parameters in time and frequency domain
-- DAAT/PLEDS
